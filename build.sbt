@@ -6,7 +6,7 @@ inThisBuild(
     homepage := Some(url("https://github.com/jkobejs/endpoints-uzhttp")),
     organizationName := "Josip Grgurica",
     startYear := Some(2020),
-    licenses := List("MIT License" -> url("http://opensource.org/licenses/mit-license.php")),
+    licenses := List("MIT" -> url("http://opensource.org/licenses/mit-license.php")),
     developers := List(
       Developer(
         "jkobejs",
